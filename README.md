@@ -18,5 +18,5 @@ Election-Audit Results
 
 Election-Audit Summary:
 
-Summary: This script can be easily modified to e
+Summary: This script can be easily modified and used for other congretional districts, senatorial districts, and local elections. Access the right folder or row name to get candidate names or county name etc in the excel document.  
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.

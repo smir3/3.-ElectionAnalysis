@@ -29,3 +29,10 @@ For local elections script:
 For congretional or senatorial districts:
 1) Ensure that steps 1 and 2 from the "local elections script" instructions above are addressed
 2) Since congretional and senatorial district elections are on the state level, the variable, lists, and dictionary names should be updated to mention "state" instead of "county"(ex. line 13, 14, 20, 21, 34, 46, 48, 50, 52, 61, 65, 67, 69, 71, 72, 73, 75, 77, 78, 79, 81, 83, 85, 87)
+
+## File Directory
+  - The PyPoll_Challenge.py file
+  - The analysis folder 
+    - election_results.txt 
+  - The Resources folder with the 
+    - election_results.csv 
